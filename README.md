@@ -2,7 +2,6 @@
 This is the README for bzip2/libzip2.
 This version is fully compatible with the previous public releases.
 
-------------------------------------------------------------------
 This file is part of bzip2/libbzip2, a program and library for
 lossless, block-sorting data compression.
 
@@ -11,9 +10,7 @@ Copyright (C) 1996-2010 Julian Seward <jseward@bzip.org>
 
 Please read the WARNING, DISCLAIMER and PATENTS sections in this file.
 
-This program is released under the terms of the license contained
-in the file LICENSE.
-------------------------------------------------------------------
+This program is released under the terms of the license contained in the file LICENSE.
 
 Complete documentation is available in Postscript form (manual.ps),
 PDF (manual.pdf) or html (manual.html).  A plain-text version of the
